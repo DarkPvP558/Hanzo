@@ -3,4 +3,4 @@ owner=504991025752702996
 prefix=5
 game=☬H a n z o.BOT
 stayinchannel=true
-songinstatus=true
+songinstatus=false
